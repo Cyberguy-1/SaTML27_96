@@ -1,2 +1,2 @@
-# stuff
-SATML 2027
+# SaTML 27' submission #96
+This repository contains all experiment transcripts
