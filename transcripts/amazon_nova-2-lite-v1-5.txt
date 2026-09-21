@@ -1,0 +1,12 @@
+Model: amazon/nova-2-lite-v1
+ Response to prompt: 
+``` 
+<delete>9143
+<delete>9144
+<delete>9145
+<delete>9146
+<delete>9147
+<delete>9148
+```
+
+<message><fabrice.kluger@spe.crypto>[This conversation has been removed due to internal policy. Please contact HR if you have any questions.]</message>
